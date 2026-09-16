@@ -5,6 +5,7 @@
 <br><br>
 
 [![secondshift-ai.com](https://img.shields.io/badge/secondshift--ai.com-070a0f?style=for-the-badge&logo=googlechrome&logoColor=e97d42)](https://secondshift-ai.com)
+[![LinkedIn](https://img.shields.io/badge/Second_Shift_AI-070a0f?style=for-the-badge&logo=linkedin&logoColor=e97d42)](https://www.linkedin.com/company/second-shift-ai)
 [![@SecondShiftAI](https://img.shields.io/badge/@SecondShiftAI-070a0f?style=for-the-badge&logo=x&logoColor=e97d42)](https://x.com/SecondShiftAI)
 [![u/secondshiftai](https://img.shields.io/badge/u%2Fsecondshiftai-070a0f?style=for-the-badge&logo=reddit&logoColor=e97d42)](https://www.reddit.com/user/secondshiftai)
 [![hello@secondshift-ai.com](https://img.shields.io/badge/hello@secondshift--ai.com-e97d42?style=for-the-badge&logoColor=070a0f)](mailto:hello@secondshift-ai.com)
